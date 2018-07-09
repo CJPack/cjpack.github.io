@@ -1,6 +1,6 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
     <title>cjpack.tk</title>
-    <link rel='icon' href='favicon.ico'/>
+    <link rel='icon' href='<?php echo base_url(); ?>images/favicon.ico'/>
     <style>
       body {
         display: flex;
@@ -54,8 +54,8 @@
       <p><h2>cjpack.tk</h2></p>
       <p>This site is under maintenance.</p>
       <p><h3>GitHub:</h3></p>
-      <a href="https://www.github.com/CJPack"><img src="github.png" width=200 height=200></a>
+      <a href="https://www.github.com/CJPack"><img src="<?php echo base_url(); ?>images/github.png" width=200 height=200></a>
     </div>
-  
+
 
 </body></html>
